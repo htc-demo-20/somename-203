@@ -20,6 +20,8 @@ resources:
     type: dns
   somebucket2:
     type: s3
+  someredis:
+    type: redis
   route:
     type: route
     params:
